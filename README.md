@@ -7,6 +7,12 @@ It describes that anybody can use threat modeling to recognize what can go wrong
 It discusses various advantages of threat modeling, such as identifying risks early on, increased security awareness, improved visibility of the target of evaluation, and different threat modeling processes like system modeling, threat identification, and risk response in some form.
 
 **Third Article**  
+
+
+**Fourth Article**
+I have watch one of the episodes from the darknetpodcast, in which one of the episodes they have talk about how google dorking have help found the exact leaked songs on the internet, futhermore they have also talked about how the big artist like skrillex have made their password so easy for a hacker to guess.
+
+**Summary of the all Articles**
 In the above articles, threat modeling encourages us to ask the system four important questions:
 1. What are we working on?
 2. What can go wrong?
@@ -24,3 +30,32 @@ Following are the security practices that everyone should follow:
 - **Backing Up Data** will always help
 
 ### b). Make-belief Boogie-Man
+
+
+## 1. What are we working on?
+
+- **Key Assets**:
+  - Customer health data
+  - Financial records
+
+- **Business Focus**:
+  - Protecting customer privacy and data to maintain trust.
+
+- **Company Systems**:
+  - The company uses a web application where customers can book appointments in different health categories using a login and signup process. The login system is available for both doctors and customers, with different roles. When a customer books an appointment, the application collects sensitive data like social security numbers and phone numbers.
+
+## 2. What can go wrong?
+
+- **Confidentiality Risks**:
+  - Unauthorized access to data due to weak passwords or insufficient security over logins.
+  - Information leaks by employees.
+
+- **Integrity Risks**:
+  - Customer data may be manipulated by malicious threats.
+  - Code errors might cause data corruption.
+
+- **Availability Risks**:
+  - DDoS attacks could increase traffic, leading to delayed response times.
+  - Systems and data could be locked, leading to downtime.
+
+## 3. What are we going to do about it?
