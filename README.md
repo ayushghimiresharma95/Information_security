@@ -52,10 +52,22 @@ Following are the security practices that everyone should follow:
 
 - **Integrity Risks**:
   - Customer data may be manipulated by malicious threats.
-  - Code errors might cause data corruption.
+  - Code errors might cause data corruption, and leading to open a ceratin port number..
 
 - **Availability Risks**:
   - DDoS attacks could increase traffic, leading to delayed response times.
   - Systems and data could be locked, leading to downtime.
 
 ## 3. What are we going to do about it?
+- **Confidentiality** :
+    - encrypting the customer and doctor data can help
+    - giving different roles to all employees can protect the data to be seen by limited people.
+- **Integrity**:
+    - Regularly updating the software and fix bugs for the vulneribilites.
+    - use data validation or 2 step authorization method or other authoriation to get inside the customer profile.
+- **Availability**:
+    - We have deploy some DDoS attack prevention like Firewalls and IDS.
+    - Ensuring there is always a data backup
+## 4. Did we do good enough?
+- we can monitor the applications , penetration testings , secutity audit
+- Ask the customers feedback for the security review.
