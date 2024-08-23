@@ -1,15 +1,16 @@
-### x). Articles Summary
+### x). 
+## Article Summary
 
-**First Article**  
-It describes that anybody can use threat modeling to recognize what can go wrong in a system, and help mitigate the implementation design for the sake of system security and privacy.
+   -- **First Article**  
+     It describes that anybody can use threat modeling to recognize what can go wrong in a system, and help mitigate the implementation design for the sake of system security and privacy.
 
-**Second Article**  
-It discusses various advantages of threat modeling, such as identifying risks early on, increased security awareness, improved visibility of the target of evaluation, and different threat modeling processes like system modeling, threat identification, and risk response in some form.
+   -- **Second Article**  
+     It discusses various advantages of threat modeling, such as identifying risks early on, increased security awareness, improved visibility of the target of evaluation, and different threat modeling processes like system modeling, threat identification, and risk response in some form.
 
  
 
 
-**Fourth Video**
+**InfoSec**
 I have watch one of the episodes from the darknetpodcast, in which one of the episodes they have talk about how google dorking have help found the exact leaked songs on the internet, futhermore they have also talked about how the big artist like skrillex have made their password so easy for a hacker to guess.
 
 **Summary of the all Articles**
