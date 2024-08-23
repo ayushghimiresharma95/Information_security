@@ -10,7 +10,7 @@
  
 
 
-##InfoSec
+## InfoSec
 I have watch one of the episodes from the darknetpodcast, in which one of the episodes they have talk about how google dorking have help found the exact leaked songs on the internet, futhermore they have also talked about how the big artist like skrillex have made their password so easy for a hacker to guess.
 
 **Summary of the all Articles**
