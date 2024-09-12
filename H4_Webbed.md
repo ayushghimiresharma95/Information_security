@@ -21,4 +21,5 @@
 
 ### Injection - 03
 --- Descriptions - Injection has been one of the oldest web security problem , injection is possible due to user-supplied data is not validated , filtered, sanitized by the application, Hostaile data is directly used. Some of the comman injections are SQl, NoSQl, OS Command ,ORM
+
 --- How to prevent - Use Limit amd other SQL Controls within queries to prevent mass disclosure of records in case of SQl injections, using proper server -side input validation.
