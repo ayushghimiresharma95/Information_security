@@ -11,12 +11,14 @@
 
 
 ### Security Misconfiurations - 05
--- Descriptions - About 90% of the applications have security failures due to unnessary features are enabled, the frameworks like nodejs  ASP.net etc can not secure the security settings, the software is out of the date or vulnerable, improper configured permissions on cloud services .
+---  Descriptions - About 90% of the applications have security failures due to unnessary features are enabled, the frameworks like nodejs  ASP.net etc can not secure the security settings, the software is out of the date or vulnerable, improper configured permissions on cloud services .
 --- How to prevent - a repeatable hardening process make the secure environment by putting different credenetials in each develpoment , Qa , and production environemnts, Uncessary features, components , documnetation should not be install or should be removed, and a automated process to verify the right configurations and settings in all environmentss.
 
 ### Vulnerable and Outdated Components - 06
--- Vulnerable components are a known issue that a user have to test and assess risk, you are likely vulnerable if you do not know the versions of both the client and server-side, if the software is still vulnerable, or unsupported, or out of date, if you do not regularly scan for the vulnerabilities, if we do not secure the componets vulnerabilities. 
+--- Descriptions- Vulnerable components are a known issue that a user have to test and assess risk, you are likely vulnerable if you do not know the versions of both the client and server-side, if the software is still vulnerable, or unsupported, or out of date, if you do not regularly scan for the vulnerabilities, if we do not secure the componets vulnerabilities. 
 
 --- How to prevent - it can be prevented by removing the unused dependencies , unnecessary features, components , files and documentation, Continusly monitoring the sources like Owasp dependency check, retire js, etc continously monitoring comman vulnerability and exposures and National vulnerability database(NVD) for vulnerabilities in the Components. Only obtain components from official sources over secure links. 
 
-
+### Injection - 03
+--- Descriptions - Injection has been one of the oldest web security problem , injection is possible due to user-supplied data is not validated , filtered, sanitized by the application, Hostaile data is directly used. Some of the comman injections are SQl, NoSQl, OS Command ,ORM
+--- How to prevent - Use Limit amd other SQL Controls within queries to prevent mass disclosure of records in case of SQl injections, using proper server -side input validation.
