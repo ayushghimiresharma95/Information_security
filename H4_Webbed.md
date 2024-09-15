@@ -46,6 +46,12 @@
 ![Screeshot](webgoat_develpoer_tools_2.png)
 
 
+## Johnny table
+
+The queries Would be 
+SELECT * FROM products WHERE category = 'Gifts' AND released = 1
+
+
 
 
 
