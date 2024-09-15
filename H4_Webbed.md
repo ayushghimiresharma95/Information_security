@@ -53,6 +53,11 @@ The queries Would be
 SELECT * FROM products WHERE category = 'Gifts' AND released = 1
 
 
+## Upgrade
+
+![Screeshot](linux_upgrade.png)
+
+
 
 
 
