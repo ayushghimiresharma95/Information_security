@@ -37,20 +37,15 @@
 
 ## WebGoat
 
-### 1.HTTP basics
 
 
-### 2.HTTP Proxies
-
-### 3. Developer Tools 
+###  Developer Tools 
 
 ![Screeshot](webgoat_develpoer_tools_1.png)
 
 ![Screeshot](webgoat_develpoer_tools_2.png)
 
 
-### 4.CIA tripod
 
-![Screeshot](Webgoat_CIA_tripod.png)
 
 
