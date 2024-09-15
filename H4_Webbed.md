@@ -29,3 +29,8 @@
 ### 0 SELECT basics
 
 ![Screenshot](SQL_problem_Solved.png)
+
+2 SELECT from World, from first two subtasks.
+
+![Screenshot](SQL_level_2.1.png)
+
