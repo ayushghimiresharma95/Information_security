@@ -26,12 +26,19 @@
 
 ## Cracking the hash
 
+
+
 ![Screeshot](cracked_1.png)
 
 ![Screeshot](cracked_2.png)
 
-
 ![Screeshot](cracked_3.png)
+
+1. At first , i used the hadid to the mode of the hash
+2. After that i used the hashcat with mode 0 and get password in a file called "solved1'
+3. An finally i used the cat command to get the value , which was "disobey"
+
+   
 
 
 
