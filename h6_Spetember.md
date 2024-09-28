@@ -1,5 +1,6 @@
 
 
+## x) Read and summarize 
 
 ## 2.3 ONE-WAY FUNCTIONS
 - one-way functions are fundamentals building blocks for the most protocols.
@@ -13,7 +14,7 @@
 - Given a hash value, it is computationally unfeasible to find a pre-image that hashes to that value
 - a message authentication code (MAC) is a one-way hash functions with the addition of code, herer the key verfies the hash value.
 
-##  Install Hashcat
+##  a) Install Hashcat
 
 ![Screeshot](hashcat_install.png)
 
@@ -24,7 +25,7 @@
 ![Screeshot](hashcat_4.png)
 
 
-## Cracking the hash
+##  b) Cracking the hash
 
 
 
