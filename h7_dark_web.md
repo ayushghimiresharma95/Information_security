@@ -64,7 +64,7 @@
 
 - forum 
 
-  ![screeshot](d7_2.png)
+  ![screeshot](d7_5.png)
 
   this is the sites where many leaked information are putted together 
 
