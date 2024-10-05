@@ -56,12 +56,17 @@
   There are many serach engine , which includes ahmia, haystick , where Onion sites are “crawled” and added to the list  
 
 
-
 - Marketplace
       ![screeshot](d7_2.png)
 
   this markeplace includes all of drugs , credit cards , and other things.
 
+
+- forum 
+
+  ![screeshot](d7_2.png)
+
+  this is the sites where many leaked information are putted together 
 
 - a site for a well known organization that has a physical street address in the real world
       ![screeshot](d7_4.png)
