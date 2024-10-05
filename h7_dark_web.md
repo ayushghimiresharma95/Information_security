@@ -33,8 +33,8 @@
     tar -xf tor-browser-linux64-*.tar.xz
 
 3. Run the TOR Browser
-  Navigate into the extracted TOR Browser directory:
-    cd tor-browser_en-US/
+      Navigate into the extracted TOR Browser directory:
+       cd tor-browser_en-US/
 
   Run the TOR Browser using the following command:
     ./start-tor-browser.desktop
@@ -59,13 +59,13 @@
 - Marketplace
       ![screeshot](d7_2.png)
 
-      this markeplace includes all of drugs , credit cards , and other things.
+  this markeplace includes all of drugs , credit cards , and other things.
 
 - Forum
 
 - a site for a well known organization that has a physical street address in the real world
       ![screeshot](d7_4.png)
 
-      This is onion sites for CIA .
+  This is onion sites for CIA .
 
   
