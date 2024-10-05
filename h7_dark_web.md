@@ -17,7 +17,7 @@
 
 - In this section, the authors trace the origins of Tor, starting with its development by the United States Naval Research Laboratory in the mid-1990s. Originally, Tor was designed to protect government communications and offer a means of secure communication for intelligence agencies. Over time, its use expanded to the public as a tool for online anonymity. The authors might emphasize that while Tor was designed for whistleblowers, activists, and those under oppressive regimes to communicate securely, it is also misused by bad actors to engage in illegal activities like drug trafficking and cybercrime.
 
--This section dives into the technical mechanics of Tor, explaining its layered encryption process. The term "Onion" comes from the way data is wrapped in layers of encryption at each node (relay) in the network. When a user connects to a website using Tor, their request is routed through several Tor nodes, with each node only knowing the previous and next hops, but never the full path. This process ensures that the origin and destination of the traffic are masked, preventing surveillance or tracking. The authors likely explain how exit nodes (the last node in the chain) work and the inherent challenges and vulnerabilities these nodes present, such as the possibility of exit node eavesdropping.
+- This section dives into the technical mechanics of Tor, explaining its layered encryption process. The term "Onion" comes from the way data is wrapped in layers of encryption at each node (relay) in the network. When a user connects to a website using Tor, their request is routed through several Tor nodes, with each node only knowing the previous and next hops, but never the full path. This process ensures that the origin and destination of the traffic are masked, preventing surveillance or tracking. The authors likely explain how exit nodes (the last node in the chain) work and the inherent challenges and vulnerabilities these nodes present, such as the possibility of exit node eavesdropping.
 
 - Despite Tor's strong anonymity features, "Tracking Criminals Using TOR" explores how law enforcement agencies attempt to track criminals who exploit the network for illicit purposes, such as using the dark web for drug dealing, human trafficking, or other illegal activities. The authors might discuss the techniques used by law enforcement, including traffic analysis, honeypot servers, and legal methods like subpoenaing Internet service providers (ISPs). They also likely touch upon famous cases where criminals were caught, despite using Tor, through methods like exploiting vulnerabilities in browser software or user errors. This section may emphasize the cat-and-mouse game between privacy advocates, cybercriminals, and law enforcement trying to uphold justice.
 
@@ -60,7 +60,6 @@
 
   this markeplace includes all of drugs , credit cards , and other things.
 
-- Forum
 
 - a site for a well known organization that has a physical street address in the real world
       ![screeshot](d7_4.png)
