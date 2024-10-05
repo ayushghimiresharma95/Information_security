@@ -13,14 +13,13 @@
 7. Tor helps users browse the internet anonymously, but improper use, such as misconfigurations or logging into identifiable services, can compromise privacy. Additionally, traffic correlation attacks can be used by adversaries to identify users despite Tor's encryption.
 
 ### Hiding Behind the Keyboard: The Tor Browser 
--Introduction section lays the foundation by introducing covert communication methods and the motivation behind these techniques.
+- This section likely introduces Tor (The Onion Router) as a tool that enables anonymous browsing by routing traffic through multiple layers of encryption. The authors discuss the growing relevance of online anonymity in both positive and negative contexts, covering how Tor provides privacy to users and also discussing its controversial use by criminals to hide their activities. The introduction probably sets the stage by highlighting Tor's role in the broader debate about cybersecurity, privacy rights, and law enforcement challenges in the digital age.
 
--History and Intended Use of The Onion Router (TOR) covers the history of TOR, initially developed for secure government communications, and its evolution into a tool for anonymity on the web.
+- In this section, the authors trace the origins of Tor, starting with its development by the United States Naval Research Laboratory in the mid-1990s. Originally, Tor was designed to protect government communications and offer a means of secure communication for intelligence agencies. Over time, its use expanded to the public as a tool for online anonymity. The authors might emphasize that while Tor was designed for whistleblowers, activists, and those under oppressive regimes to communicate securely, it is also misused by bad actors to engage in illegal activities like drug trafficking and cybercrime.
 
--how the onion router works explains the technical details of how TOR maintains user anonymity by routing traffic through multiple encrypted layers (nodes) and why it’s difficult to trace.
+-This section dives into the technical mechanics of Tor, explaining its layered encryption process. The term "Onion" comes from the way data is wrapped in layers of encryption at each node (relay) in the network. When a user connects to a website using Tor, their request is routed through several Tor nodes, with each node only knowing the previous and next hops, but never the full path. This process ensures that the origin and destination of the traffic are masked, preventing surveillance or tracking. The authors likely explain how exit nodes (the last node in the chain) work and the inherent challenges and vulnerabilities these nodes present, such as the possibility of exit node eavesdropping.
 
--Tracking the Criminals using Tor discusses law enforcement challenges in tracking illegal activities on TOR, and the forensic techniques that can sometimes be used to de-anonymize users.
-
+- Despite Tor's strong anonymity features, "Tracking Criminals Using TOR" explores how law enforcement agencies attempt to track criminals who exploit the network for illicit purposes, such as using the dark web for drug dealing, human trafficking, or other illegal activities. The authors might discuss the techniques used by law enforcement, including traffic analysis, honeypot servers, and legal methods like subpoenaing Internet service providers (ISPs). They also likely touch upon famous cases where criminals were caught, despite using Tor, through methods like exploiting vulnerabilities in browser software or user errors. This section may emphasize the cat-and-mouse game between privacy advocates, cybercriminals, and law enforcement trying to uphold justice.
 
 
 ## a) Intalling the Tor browser
