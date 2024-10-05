@@ -44,4 +44,25 @@
 
 5. Accessing .onion Websites
   Once connected, you can visit .onion websites by typing the address in the TOR Browser’s URL bar. 
+
+
+## b) Browse TOR network
+
+- Search engine 
+![screeshot](d7_1.png)
+
+  There are many serach engine , which includes ahmia, haystick , where Onion sites are “crawled” and added to the list  
+
+- Marketplace
+- ![screeshot](d7_2.png)
+
+  this markeplace includes all of drugs , credit cards , and other things.
+
+- Forum
+
+- a site for a well known organization that has a physical street address in the real world
+  ![screeshot](d7_4.png)
+
+This is onion sites for CIA .
+
   
