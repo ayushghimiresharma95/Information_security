@@ -14,9 +14,13 @@
 
 ### Hiding Behind the Keyboard: The Tor Browser 
 -Introduction section lays the foundation by introducing covert communication methods and the motivation behind these techniques.
+
 -History and Intended Use of The Onion Router (TOR) covers the history of TOR, initially developed for secure government communications, and its evolution into a tool for anonymity on the web.
+
 -how the onion router works explains the technical details of how TOR maintains user anonymity by routing traffic through multiple encrypted layers (nodes) and why it’s difficult to trace.
+
 -Tracking the Criminals using Tor discusses law enforcement challenges in tracking illegal activities on TOR, and the forensic techniques that can sometimes be used to de-anonymize users.
+
 
 
 ## a) Intalling the Tor browser
