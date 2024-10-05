@@ -44,6 +44,8 @@
 5. Accessing .onion Websites
   Once connected, you can visit .onion websites by typing the address in the TOR Browser’s URL bar. 
 
+![screeshot](d7_3.png)
+
 
 ## b) Browse TOR network
 
