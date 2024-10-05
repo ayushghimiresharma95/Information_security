@@ -21,19 +21,23 @@
 
 ## a) Intalling the Tor browser
 1. Downloading the TOR Browser
-Go to the official TOR Project website. Avoid downloading the browser from unofficial sources to prevent security risks.
+  Go to the official TOR Project website. Avoid downloading the browser from unofficial sources to prevent security risks.
 
 2. Extract the TOR Browser Files
-Extract the downloaded file using the following command:
+  Extract the downloaded file using the following command:
 
-tar -xf tor-browser-linux64-*.tar.xz
+    tar -xf tor-browser-linux64-*.tar.xz
 
 3. Run the TOR Browser
-Navigate into the extracted TOR Browser directory:
-cd tor-browser_en-US/
+  Navigate into the extracted TOR Browser directory:
+    cd tor-browser_en-US/
 
-Run the TOR Browser using the following command:
-./start-tor-browser.desktop
+  Run the TOR Browser using the following command:
+    ./start-tor-browser.desktop
 
 4. Connect to the TOR Network
-When the TOR Browser starts, you'll see a window asking if you want to Connect to the TOR network or configure network settings. Click Connect to start browsing the TOR network.
+  When the TOR Browser starts, you'll see a window asking if you want to Connect to the TOR network or configure network settings. Click Connect to start browsing the TOR network.
+
+5. Accessing .onion Websites
+  Once connected, you can visit .onion websites by typing the address in the TOR Browser’s URL bar. 
+  
